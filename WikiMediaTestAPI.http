@@ -1,0 +1,3 @@
+### Get the message from the WikiMedia
+GET http://localhost:8081/api/v1/wikimedia
+Accept: application/json
